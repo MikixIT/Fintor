@@ -1,6 +1,9 @@
 # Fintor
+<img src="/icon.png" alt="Fintor icon" width="200" />
+Fintor by Michael
+
 Financial Workflow Console with an expense-tracker style UI, but enterprise-level architecture and complexity.
-Fintor
+
 
 Fintor is a modern financial workflow platform designed to track, review, approve, and analyze financial transactions with enterprise-grade structure and clarity.
 
